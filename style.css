@@ -107,6 +107,7 @@
    border: rgb(81, 228, 100) 4px outset;
    color: azure;
    border-radius: 6px;
+   cursor: pointer;
 }
 
 /* Rght section */
